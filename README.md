@@ -18,8 +18,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### My Gitgub stats
+#### My Gitgub Stats
 ![Niaodtiantang's GitHub stats](https://github-readme-stats.vercel.app/api?username=niaodtiantang&show_icons=true&theme=dark)
+#### Top Langs
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niaodtiantang)](https://github.com/anuraghazra/github-readme-stats)
 #### 💻 My website
 ##### [Github Page](https://niaodtiantang.github.io)
 ##### [Zh-CN Blog](https://niaodtiantang.com)
