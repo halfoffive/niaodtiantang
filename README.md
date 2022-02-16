@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on my blog.
 - 🌱 I’m currently learning HTML5 and JavaScript.
-- 📫 How to reach me: [niaodtiantang@gmail.com]()
+- 📫 How to reach me: [niaodtiantang@gmail.com](mailto:niaodtiantang@gmail.com)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 <!--
