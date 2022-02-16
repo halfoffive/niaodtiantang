@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on my blog.
 - 🌱 I’m currently learning HTML5 and JavaScript.
 - 📫 How to reach me: [niaodtiantang@gmail.com](mailto:niaodtiantang@gmail.com)
-- 💻 My website: 
+- 💻 My website: [Github Page](niaodtiantang.github.io)  ,  [Zh-CN Blog](niaodtiantang.com)  ,  [EN Blog](i.niaodtiantang.com/en)
 <!--
 **niaodtiantang/niaodtiantang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
