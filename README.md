@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 #### My Gitgub stats
 ![niaodtiantang's GitHub stats](https://github-readme-stats.vercel.app/api?username=niaodtiantang&hide=contribs,prs)
 #### 💻 My website
-- [Github Page](https://niaodtiantang.github.io)
-- [Zh-CN Blog](https://niaodtiantang.com)
-- [EN Blog](https://i.niaodtiantang.com/en)
+##### [Github Page](https://niaodtiantang.github.io)
+##### [Zh-CN Blog](https://niaodtiantang.com)
+##### [EN Blog](https://i.niaodtiantang.com/en)
