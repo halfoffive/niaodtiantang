@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm niaodtiantang. 
 <!--
 **niaodtiantang/niaodtiantang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+This is my GitHub stats
 ![niaodtiantang's GitHub stats](https://github-readme-stats.vercel.app/api?username=niaodtiantang&hide=contribs,prs)
-![Anurag's GitHub stats](https://www.niaodtiantang.com/?page_id=237)
