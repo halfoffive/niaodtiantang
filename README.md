@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #### My Gitgub stats
-![niaodtiantang's GitHub stats](https://github-readme-stats.vercel.app/api?username=niaodtiantang&hide=contribs,prs)
+![Niaodtiantang's GitHub stats](https://github-readme-stats.vercel.app/api?username=niaodtiantang&show_icons=true&theme=dark)
 #### 💻 My website
 ##### [Github Page](https://niaodtiantang.github.io)
 ##### [Zh-CN Blog](https://niaodtiantang.com)
