@@ -1,4 +1,4 @@
-### Hi there 👋, I'm niaodtiantang. 
+### Hi there , I'm niaodtiantang 👋
 
 - 🔭 I’m currently working on my blog.
 - 🌱 I’m currently learning HTML5 and JavaScript.
@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #### My Gitgub Stats
-![Niaodtiantang's GitHub stats](https://github-readme-stats.vercel.app/api?username=niaodtiantang&show_icons=true&theme=dark)
+![Niaodtiantang's GitHub stats](https://github-readme-stats.api.niaodtiantang.com/api?username=niaodtiantang&show_icons=true&theme=dark)
 #### Top Langs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niaodtiantang)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.api.niaodtiantang.com/api/top-langs/?username=niaodtiantang)](https://github.com/anuraghazra/github-readme-stats)
 #### 💻 My website
 ##### [Github Page](https://niaodtiantang.github.io)
 ##### [Zh-CN Blog](https://niaodtiantang.com)
