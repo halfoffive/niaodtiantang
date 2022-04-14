@@ -19,10 +19,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #### My Gitgub Stats
-![Niaodtiantang's GitHub stats](https://github-readme-stats.api.niaodtiantang.com/api?username=niaodtiantang&show_icons=true&theme=dark)
+![Niaodtiantang's GitHub stats](https://ndtt.vercel.app/api?username=niaodtiantang&show_icons=true&theme=dark)
 #### Top Langs
-[![Top Langs](https://github-readme-stats.api.niaodtiantang.com/api/top-langs/?username=niaodtiantang)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://ndtt.vercel.app/api/top-langs/?username=niaodtiantang)](https://github.com/anuraghazra/github-readme-stats)
 #### 💻 My website
 ##### [Github Page](https://niaodtiantang.github.io)
-##### [Zh-CN Blog](https://niaodtiantang.com)
-##### [EN Blog](https://i.niaodtiantang.com/en)
+##### [My Blog](https://niaodtiantang.com)
